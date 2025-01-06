@@ -154,7 +154,7 @@ const haichChuluu = () => {
   };
 };
 const showGameHistory = () => {
-  console.log("Тоглолтын түүх:");
+  console.log("Togloson tuuh:");
   for (let i = 0; i < gameHistory.length; i++) {
     const push = gameHistory[i];
     console.log(
